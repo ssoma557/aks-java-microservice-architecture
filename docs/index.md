@@ -157,6 +157,6 @@ End‑to‑end request path for a client call to the Java microservice:
 
 
 
-# AKS Java Microservice Architecture
+# CI/CD
 
 - [CI/CD and GitOps with Argo CD](./ci-cd-argocd.md)
