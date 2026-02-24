@@ -154,3 +154,10 @@ End‑to‑end request path for a client call to the Java microservice:
 - Metrics: Azure Monitor and Container Insights for node/pod metrics; HPA uses custom metrics where needed.
 - Logging: centralized logs (app, ingress, audit, firewall) in Log Analytics; KQL dashboards and alerts on SLOs.
 - Tracing: OpenTelemetry agents in Java services, with traces in Application Insights for end‑to‑end request visibility.
+
+
+
+# AKS Java Microservice Architecture
+
+- [CI/CD and GitOps with Argo CD](./ci-cd-argocd.md)
+- [CI/CD System Design](./ci-cd-system-design.md)
